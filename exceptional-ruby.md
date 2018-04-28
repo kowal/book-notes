@@ -1,0 +1,72 @@
+## Exceptional Ruby
+
+> by [Avdi Grimm](http://www.virtuouscode.com/)
+
+If you like the notes, go ahead and [buy the book](http://exceptionalruby.com)!
+
+- **raise**
+  - `raise` => `fail`
+  - `raise` => `raise RuntimeError`
+  - `raise 'Doh!'` => `raise RuntimeError, 'Doh!'`
+  - `raise RuntimeError, 'err', caller` - sets custom backtrace  
+  - `raise` is method in Kernel, can be overridden
+  - internals: (1) call `exception`, (2) set backtrace, (3) set `$!`, (4) throw exc up the call stack
+  - `ensure` - watch out for explicit return (silents the exception)
+- **rescue**
+  - `rescue` => `rescue StandardError`
+  - `rescue FirstError, SecondError => error`
+  - `rescue *exceptions`
+  - `expression rescue other_expression` - rescue as statement modifier
+    - `expr rescue $!` => returns exception object
+  - during exception handling
+    - `raise 'Foo'` - original ex. is thrown away, use nested exceptions
+    - `begin; foo; rescue => error; raise error; end` - throw original exception (same object). However, msg and backtrace can be changed
+- else
+  - only when NO exceptions are raised, before ensure
+- ensure
+  - always runs, no matter what!
+- uncaught exceptions, what can we do?
+  - exit-hooks
+  - in threads exceptions are held until joined
+- **responding to failures**
+  - failure flag + benign values
+  - `puts` is buffered, use `warn`
+  - `ruby -d / $DEBUG`
+  - failure cascades: bulkheads, circuit breaker
+  - exiting program `exit(1)` => `raise SystemExit.new(1)`
+- **alternatives*- to exceptions
+  - fail fast
+  - deferred failure handling (tests, wizards)
+  - failure policy
+  - process reification (best!) - create object which collects status data
+- throw/catch
+  - for expected situations handled by non local returns
+  - caller supplied fall-back strategy
+- before raising
+  - is the situation truly unexpected?
+  - am I prepared to end the program?
+  - can I put the decision up the call chain?
+  - am I throwing away valuable diagnostics? (long-running operations)
+  - would continuing result in a less informative exception?
+- exception handling
+  - isolate exception handling code (contingency method)
+  - be specific when eating exceptions (precise class or at least message)
+- method **exception safety**
+  - [No guarantee]
+  - Weak guarantee - obj left consistent (can operate/business rules can be broken)
+  - Strong guarantee - obj rolled back to beginning state
+  - NoThrow guarantee - no exceptions will be raised outside the method
+- **validity != consistency**
+  - Validity - Are the business rules for the data met
+  - Consistency - Can the object operate without crashing, or exhibiting undefined behavior?
+  - Invalid objects should not raise exceptions - they can operate, should not be persisted
+- building **library**
+  - namespace your own exceptions
+  - consider nested exception
+  - no-raise API
+  - library exception classes
+    - group by: (1) subsystem, (2) view/model/service, (3) severity, (4) event type
+    - event types
+      - `UserError`
+      - `LogicError` - smth wrong happend inside the application
+      - `TransientError` - system is over capacity (nothing is broken in logic)
