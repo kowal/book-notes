@@ -34,7 +34,7 @@ If you like the notes, go ahead and [buy the book](http://exceptionalruby.com)!
   - `ruby -d / $DEBUG`
   - failure cascades: bulkheads, circuit breaker
   - exiting program `exit(1)` => `raise SystemExit.new(1)`
-- **alternatives*- to exceptions
+- **alternatives** to exceptions
   - fail fast
   - deferred failure handling (tests, wizards)
   - failure policy
