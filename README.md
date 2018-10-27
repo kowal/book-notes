@@ -4,6 +4,7 @@ Here you can find my notes from some of the [books I read](https://www.goodreads
 
 ### Tech / Science / History
 
+* **[Antifragile](antifragile.md)**, by N.N.Taleb
 * **[Century of the Surgeon](century-of-the-surgeons.md)**, by J. Thorwald
 * **[Inevitable ..](inevitable.md)**, by K. Kelly
 * **[Second Machine Age ..](second-machine-age.md)**, by E. Brynjolfsson, A. McAfee
