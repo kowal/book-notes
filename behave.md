@@ -1,4 +1,4 @@
-## Behave - WIP
+## Behave
 
 > by [Robert Sapolsky]
 
