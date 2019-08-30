@@ -66,4 +66,4 @@
 
 ### TODO
   
-Review from 2/3 of https://www.goodreads.com/notes/34804171-behave/64517152-marek-kowalcze?page=2
+Review https://www.goodreads.com/notes/34804171-behave/64517152-marek-kowalcze?page=2 (1/3 is done)
