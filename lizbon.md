@@ -8,8 +8,8 @@ If you like the notes, go ahead and [buy the book](https://www.goodreads.com/boo
 
 * [António de Oliveira Salazar](https://en.wikipedia.org/wiki/Ant%C3%B3nio_de_Oliveira_Salazar), Estado Novo and neutrality of Portugal during WW2
 * [Anglo-Portuguese Alliance](https://en.wikipedia.org/wiki/Anglo-Portuguese_Alliance#Second_World_War), one of the oldest alliance in the world
-* Sousa Mendes
+* Sousa Mendes, nice guy, saved a lot of people
 * [Leslie Howard](https://en.wikipedia.org/wiki/Leslie_Howard)
-* [Azores](https://en.wikipedia.org/wiki/Azores)
+* [Azores](https://en.wikipedia.org/wiki/Azores), kind of important spot for .. everyone
 * Portugese colonies
 * German gold case
