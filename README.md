@@ -6,7 +6,9 @@ Here you can find my notes from some of the [books I read](https://www.goodreads
 
 * **[Behave](behave.md)**, by R. Sapolsky
 * **[Lisbon: War in the Shadows of the City of Light](lizbon.md)**, by N. Lochery
-* **[Antifragile](antifragile.md)**, by N.N.Taleb
+* **Incerto**, by N.N.Taleb
+  * **[Black Swan](blackswan.md)**
+  * **[Antifragile](antifragile.md)**
 * **[Century of the Surgeon](century-of-the-surgeons.md)**, by J. Thorwald
 * **[The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future](inevitable.md)**, by K. Kelly
 * **[Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies](second-machine-age.md)**, by E. Brynjolfsson, A. McAfee
