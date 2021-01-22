@@ -10,8 +10,9 @@ Here you can find my notes from some of the [books I read](https://www.goodreads
   * **[Black Swan](blackswan.md)**
   * **[Antifragile](antifragile.md)**
 * **[Century of the Surgeon](century-of-the-surgeons.md)**, by J. Thorwald
-* **[The Inevitable: Understanding the 12 Technological Forces That Will Shape Our Future](inevitable.md)**, by K. Kelly
-* **[Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies](second-machine-age.md)**, by E. Brynjolfsson, A. McAfee
+* **[Leonardo da Vinci](leonardo.md)**, by W. Isaacson
+* **[The Inevitable: Understanding the 12 Technological Forces (..)](inevitable.md)**, by K. Kelly
+* **[Second Machine Age: Work, Progress, and Prosperity (..)](second-machine-age.md)**, by E. Brynjolfsson, A. McAfee
 
 ### Programming
 
