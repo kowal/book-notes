@@ -21,4 +21,6 @@ Here you can find my notes from some of the [books I read](https://www.goodreads
 * **[Build Awesome Command-Line Applications in Ruby](awesome-command-line-apps.md)**, by D. B. Copeland
 
 
-:point_right: Inspired by [mgp/book-notes](https://github.com/mgp/book-notes).
+---
+
+Inspired by [mgp/book-notes](https://github.com/mgp/book-notes).
