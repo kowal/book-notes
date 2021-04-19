@@ -16,10 +16,10 @@ Here you can find my notes from some of the [books I read](https://www.goodreads
 
 ### Programming
 
+* **[Software Design X-Rays (..)](x-rays.md)**, by Adam Tornhill
 * **[Confident Ruby](confident-ruby.md)**, by A. Grimm
 * **[Exceptional Ruby](exceptional-ruby.md)**, by A. Grimm
 * **[Build Awesome Command-Line Applications in Ruby](awesome-command-line-apps.md)**, by D. B. Copeland
-
 
 ---
 
