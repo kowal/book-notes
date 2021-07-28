@@ -2,18 +2,21 @@
 
 Here you can find my notes from some of the [books I read](https://www.goodreads.com/user/show/64517152-marek-kowalcze).
 
-### Tech / Science / History
+### Tech / Science
 
 * **[Scale](scale.md)**, by G. West
 * **[Behave](behave.md)**, by R. Sapolsky
-* **[Lisbon: War in the Shadows of the City of Light](lizbon.md)**, by N. Lochery
 * **Incerto**, by N.N.Taleb
   * **[Black Swan](blackswan.md)**
   * **[Antifragile](antifragile.md)**
-* **[Century of the Surgeon](century-of-the-surgeons.md)**, by J. Thorwald
+* **[The Inevitable (..)](inevitable.md)**, by K. Kelly
+* **[Second Machine Age (..)](second-machine-age.md)**, by E. Brynjolfsson, A. McAfee
+
+### History
+
 * **[Leonardo da Vinci](leonardo.md)**, by W. Isaacson
-* **[The Inevitable: Understanding the 12 Technological Forces (..)](inevitable.md)**, by K. Kelly
-* **[Second Machine Age: Work, Progress, and Prosperity (..)](second-machine-age.md)**, by E. Brynjolfsson, A. McAfee
+* **[Lisbon: War in the Shadows of the City of Light](lizbon.md)**, by N. Lochery
+* **[Century of the Surgeon](century-of-the-surgeons.md)**, by J. Thorwald
 
 ### Programming
 
