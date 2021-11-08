@@ -4,6 +4,7 @@ Here you can find my notes from some of the [books I read](https://www.goodreads
 
 ### Tech / Science
 
+* **[To Engineer Is Human](engineer.md)**, by H. Petrosky
 * **[Scale](scale.md)**, by G. West
 * **[Behave](behave.md)**, by R. Sapolsky
 * **Incerto**, by N.N.Taleb
