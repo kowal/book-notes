@@ -4,6 +4,7 @@ Here you can find my notes from some of the [books I read](https://www.goodreads
 
 ### Tech / Science
 
+* **[Complexity: A Guided Tour](complexity.md)**, by M. Mitchell
 * **[To Engineer Is Human](engineer.md)**, by H. Petrosky
 * **[Scale](scale.md)**, by G. West
 * **[Behave](behave.md)**, by R. Sapolsky
