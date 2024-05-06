@@ -9,11 +9,13 @@ Here you can find my notes from some of the [books I read](https://www.goodreads
 * **[To Engineer Is Human](engineer.md)**, by H. Petrosky
 * **[Scale](scale.md)**, by G. West
 * **[Behave](behave.md)**, by R. Sapolsky
-* **Incerto**, by N.N.Taleb
-  * **[Black Swan](blackswan.md)**
-  * **[Antifragile](antifragile.md)**
 * **[The Inevitable (..)](inevitable.md)**, by K. Kelly
 * **[Second Machine Age (..)](second-machine-age.md)**, by E. Brynjolfsson, A. McAfee
+
+### Incerto
+
+* **[Black Swan](blackswan.md)**
+* **[Antifragile](antifragile.md)**
 
 ### History
 
